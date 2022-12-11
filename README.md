@@ -2,4 +2,10 @@ patriapatriapatria querida
 
 hate pseudocode
 
-print("venezuela")
+int main(){
+
+printf("teamovenezula")
+
+return :)
+
+}
